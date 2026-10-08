@@ -1,4 +1,29 @@
-# NeetCode Practice — Quintin Vizza
+<!-- README presentation: Vizzaq23 portfolio palette -->
+<p align="center">
+  <a href="https://github.com/Vizzaq23"><img src="https://img.shields.io/badge/Vizzaq23%20%C2%B7%20LEARNING%20LOG-101722?style=flat-square&amp;labelColor=101722&amp;color=D7B877" alt="Vizzaq23 · LEARNING LOG" /></a>
+</p>
+
+<h1 align="center">NeetCode Practice</h1>
+
+<p align="center"><strong>Algorithms, language fundamentals, and SQL — one problem at a time.</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-101722?style=flat-square&amp;labelColor=101722&amp;color=85CFE8" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-101722?style=flat-square&amp;labelColor=101722&amp;color=D7B877" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-101722?style=flat-square&amp;labelColor=101722&amp;color=B8A1E3" alt="SQL" />
+</p>
+
+<p align="center">
+  <a href="https://quintinvizza.dev">Portfolio</a> · <a href="https://github.com/Vizzaq23">GitHub profile</a>
+</p>
+
+<p align="center">
+  <a href="#overview">Overview</a> · <a href="#browse-the-work">Browse solutions</a> · <a href="#how-to-use-this-repository">How to use</a> · <a href="#sync">Sync</a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Vizzaq23/Vizzaq23/main/assets/divider.svg" width="100%" alt="" />
+
+## Overview
 
 My active repository for algorithm and programming practice, synced from NeetCode. Solutions currently include Python, TypeScript, and SQL.
 
@@ -30,3 +55,7 @@ This repository documents practice. My portfolio links to complete applications,
 ## Sync
 
 Submissions are maintained through the NeetCode GitHub integration. Problem statements and platform materials belong to their respective owners.
+
+<img src="https://raw.githubusercontent.com/Vizzaq23/Vizzaq23/main/assets/divider.svg" width="100%" alt="" />
+
+<p align="center"><sub>Built by <a href="https://github.com/Vizzaq23">Quintin Vizza</a> · <a href="https://quintinvizza.dev">Explore my work</a></sub></p>
